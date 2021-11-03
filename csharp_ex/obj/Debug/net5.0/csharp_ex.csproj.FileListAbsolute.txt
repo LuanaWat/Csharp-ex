@@ -1,0 +1,16 @@
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.csproj.AssemblyReference.cache
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.AssemblyInfoInputs.cache
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.AssemblyInfo.cs
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.csproj.CoreCompileInputs.cache
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\csharp_ex.exe
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\csharp_ex.deps.json
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\csharp_ex.runtimeconfig.json
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\csharp_ex.runtimeconfig.dev.json
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\csharp_ex.dll
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\ref\csharp_ex.dll
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\bin\Debug\net5.0\csharp_ex.pdb
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.dll
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\ref\csharp_ex.dll
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.pdb
+C:\workspace\csharp_ex\revisao_csharp\csharp_ex\obj\Debug\net5.0\csharp_ex.genruntimeconfig.cache

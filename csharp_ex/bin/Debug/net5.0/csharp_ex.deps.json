@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "csharp_ex/1.0.0": {
+        "runtime": {
+          "csharp_ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp_ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
